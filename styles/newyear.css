@@ -24,9 +24,6 @@
     color: white;
     margin-bottom: 25px;
 }
-.description {
-
-}
 .btn-contact {
     width: 85px;
     height: 35px;
@@ -36,4 +33,25 @@
     border-radius: 5px;
     color: #0873ff;
     font-weight: 700px;
+}
+/* failures styles */
+.failures {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 70px;
+    padding: 165px;
+    width: 1075;
+    height: 725px;
+}
+.failures-title {
+    text-align: left;
+}
+.failures-heading {
+    margin-bottom: 15px;
+    font-size: 65px;
+    font-weight: 700px;
+}
+.failures-list {
+    margin-top: 15px;
 }
