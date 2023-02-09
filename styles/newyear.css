@@ -46,6 +46,7 @@
 }
 .failures-title {
     text-align: left;
+    margin-left: 45px;
 }
 .failures-heading {
     margin-bottom: 15px;
@@ -54,4 +55,15 @@
 }
 .failures-list {
     margin-top: 15px;
+}
+/* plans styles */
+
+.my-plans {
+    text-align: center;
+    font-weight: 600px;
+    margin-bottom: 25px;
+}
+.plans-items {
+    display: flex;
+    justify-content: space-evenly;
 }
