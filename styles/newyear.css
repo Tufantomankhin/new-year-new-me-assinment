@@ -1,3 +1,39 @@
 * {
-    margin: 0px 0px;
+    margin: 0;
+    font-family: 'Raleway', sans-serif;
+}
+/* header styles */
+.header {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    background-image: url(../images/banner/banner3.png);
+    background-repeat: no-repeat;
+    width: 1600px;
+    height: 808px;
+}
+.header-title {
+    margin: 25px;
+    padding: 0px 125px 0px 900px;
+    text-align: right;
+    justify-content: center;
+    
+}
+.title {
+    font-size: 45px;
+    color: white;
+    margin-bottom: 25px;
+}
+.description {
+
+}
+.btn-contact {
+    width: 85px;
+    height: 35px;
+    margin-top: 25px;
+    padding: 5px;
+    border-style: none;
+    border-radius: 5px;
+    color: #0873ff;
+    font-weight: 700px;
 }
